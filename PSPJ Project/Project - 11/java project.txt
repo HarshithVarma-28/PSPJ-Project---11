@@ -1,0 +1,21 @@
+1)Project ID and Project Name 
+
+Project ID = KLH/PSPJ/S11/11
+Project Name = ATM SIMULATOR
+
+2)Abstract
+
+ATM Simulator is a Java-based banking application designed to replicate the essential functions of an automated teller machine in a simple, secure, and user-friendly way. The project addresses the need to understand how basic banking transactions are processed while applying key programming concepts such as object-oriented design, conditional logic, loops, input validation, and data management.
+
+When the program starts, the user is asked to enter valid account credentials, such as an account number and PIN. After successful authentication, the ATM menu presents several transaction options. Users can check their account balance, deposit money, withdraw money, view recent transaction details, and exit the application. The program verifies each request before completing it; for example, it prevents withdrawals that exceed the available balance and rejects invalid input values. Account information and transaction activity are updated immediately so that the displayed balance remains accurate throughout the session.
+
+The Java program is organized around classes and methods that represent the ATM, user accounts, and banking operations. This structure makes the code easier to understand, maintain, and extend with future features such as multiple accounts, fund transfers, or persistent file/database storage.
+
+By running the ATM Simulator, users can safely practice common ATM operations without interacting with a real bank account. The project provides a realistic simulation of everyday banking tasks while demonstrating how Java can be used to build interactive, menu-driven applications.
+
+3)Project Members 
+
+   STUDENT ROLL NUMBER 	     STUDENT NAME 	      SIGNATURE
+2620030138	V Bhargav Krishna	
+2620080037	D Harshith Varma 	
+2620040017	P Aditya	
